@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical Analysis Chart Reading"
+  short_description: "Murphy-style chart and indicator analysis"
+  default_prompt: "Use $technical-analysis-chart-reading to analyze this market chart or OHLCV data with trend, pattern, volume, and indicator evidence."
